@@ -1,0 +1,28 @@
+C:\Users\Student\documents\visual studio 2010\Projects\WindowsApplication29\WindowsApplication29\obj\x86\Debug\WindowsApplication29.exe
+C:\Users\Student\documents\visual studio 2010\Projects\WindowsApplication29\WindowsApplication29\obj\x86\Debug\WindowsApplication29.xml
+C:\Users\Student\documents\visual studio 2010\Projects\WindowsApplication29\WindowsApplication29\obj\x86\Debug\WindowsApplication29.pdb
+C:\Users\Student\Documents\Visual Studio 2010\Projects\WindowsApplication29\WindowsApplication29\bin\Debug\WindowsApplication29.exe
+C:\Users\Student\Documents\Visual Studio 2010\Projects\WindowsApplication29\WindowsApplication29\bin\Debug\WindowsApplication29.pdb
+C:\Users\Student\Documents\Visual Studio 2010\Projects\WindowsApplication29\WindowsApplication29\bin\Debug\WindowsApplication29.xml
+C:\Users\Student\Documents\Visual Studio 2010\Projects\WindowsApplication29\WindowsApplication29\obj\x86\Debug\WindowsApplication29.Form1.resources
+C:\Users\Student\Documents\Visual Studio 2010\Projects\WindowsApplication29\WindowsApplication29\obj\x86\Debug\WindowsApplication29.Form2.resources
+C:\Users\Student\Documents\Visual Studio 2010\Projects\WindowsApplication29\WindowsApplication29\obj\x86\Debug\WindowsApplication29.Resources.resources
+C:\Users\Student\Documents\Visual Studio 2010\Projects\WindowsApplication29\WindowsApplication29\obj\x86\Debug\simmi bca.vbproj.GenerateResource.Cache
+G:\WindowsApplication29\WindowsApplication29\obj\x86\Debug\WindowsApplication29.exe
+G:\WindowsApplication29\WindowsApplication29\obj\x86\Debug\WindowsApplication29.xml
+G:\WindowsApplication29\WindowsApplication29\obj\x86\Debug\WindowsApplication29.pdb
+H:\WindowsApplication29\WindowsApplication29\obj\x86\Debug\WindowsApplication29.exe
+H:\WindowsApplication29\WindowsApplication29\obj\x86\Debug\WindowsApplication29.xml
+H:\WindowsApplication29\WindowsApplication29\obj\x86\Debug\WindowsApplication29.pdb
+C:\WindowsApplication29\WindowsApplication29\obj\x86\Debug\WindowsApplication29.exe
+C:\WindowsApplication29\WindowsApplication29\obj\x86\Debug\WindowsApplication29.xml
+C:\WindowsApplication29\WindowsApplication29\obj\x86\Debug\WindowsApplication29.pdb
+C:\WindowsApplication29\WindowsApplication29\bin\Debug\WindowsApplication29.exe
+C:\WindowsApplication29\WindowsApplication29\bin\Debug\WindowsApplication29.pdb
+C:\WindowsApplication29\WindowsApplication29\bin\Debug\WindowsApplication29.xml
+C:\WindowsApplication29\WindowsApplication29\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\WindowsApplication29\WindowsApplication29\obj\x86\Debug\WindowsApplication29.Form1.resources
+C:\WindowsApplication29\WindowsApplication29\obj\x86\Debug\WindowsApplication29.Form2.resources
+C:\WindowsApplication29\WindowsApplication29\obj\x86\Debug\WindowsApplication29.Resources.resources
+C:\WindowsApplication29\WindowsApplication29\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\WindowsApplication29\WindowsApplication29\obj\x86\Debug\GenerateResource.write.1.tlog

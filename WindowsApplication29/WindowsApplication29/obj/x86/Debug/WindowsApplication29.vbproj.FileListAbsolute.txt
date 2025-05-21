@@ -1,0 +1,10 @@
+c:\users\student\documents\visual studio 2010\Projects\WindowsApplication29\WindowsApplication29\bin\Debug\WindowsApplication29.exe
+c:\users\student\documents\visual studio 2010\Projects\WindowsApplication29\WindowsApplication29\bin\Debug\WindowsApplication29.pdb
+c:\users\student\documents\visual studio 2010\Projects\WindowsApplication29\WindowsApplication29\bin\Debug\WindowsApplication29.xml
+c:\users\student\documents\visual studio 2010\Projects\WindowsApplication29\WindowsApplication29\obj\x86\Debug\WindowsApplication29.Form1.resources
+c:\users\student\documents\visual studio 2010\Projects\WindowsApplication29\WindowsApplication29\obj\x86\Debug\WindowsApplication29.Resources.resources
+c:\users\student\documents\visual studio 2010\Projects\WindowsApplication29\WindowsApplication29\obj\x86\Debug\WindowsApplication29.vbproj.GenerateResource.Cache
+c:\users\student\documents\visual studio 2010\Projects\WindowsApplication29\WindowsApplication29\obj\x86\Debug\WindowsApplication29.exe
+c:\users\student\documents\visual studio 2010\Projects\WindowsApplication29\WindowsApplication29\obj\x86\Debug\WindowsApplication29.xml
+c:\users\student\documents\visual studio 2010\Projects\WindowsApplication29\WindowsApplication29\obj\x86\Debug\WindowsApplication29.pdb
+c:\users\student\documents\visual studio 2010\Projects\WindowsApplication29\WindowsApplication29\obj\x86\Debug\WindowsApplication29.Form2.resources

@@ -1,0 +1,32 @@
+C:\Users\user\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\user\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\user\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\user\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\user\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\user\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\user\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\user\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\WindowsApplication29\simran\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\WindowsApplication29\simran\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\WindowsApplication29\simran\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\WindowsApplication29\simran\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\WindowsApplication29\simran\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\WindowsApplication29\simran\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\WindowsApplication29\simran\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\WindowsApplication29\simran\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\WindowsApplication29\simran\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\WindowsApplication29\simran\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\WindowsApplication29\simran\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\WindowsApplication29\simran\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\WindowsApplication29\simran\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\WindowsApplication29\simran\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\WindowsApplication29\simran\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form5.resources
+C:\WindowsApplication29\simran\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form6.resources
+C:\WindowsApplication29\simran\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form7.resources
+C:\WindowsApplication29\simran\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form8.resources
+C:\WindowsApplication29\simran\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form9.resources
+C:\WindowsApplication29\simran\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form10.resources
+C:\WindowsApplication29\simran\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form12.resources
